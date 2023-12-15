@@ -1,16 +1,5 @@
 # StatGPT
 
-In Progress: Fine-tuning a Language Model for NBA predictive modeling
-
-### Data Collection:
-
-### Data Processing:
-
-### Fine-Tuning the Language Model:
-
-### Baseline Models:
-
-### Results:
-
-
+590_prompting.ipynb runs all the few-shot prompting experiments with Flan-T5-XXL
+590ChatGPTprompting.ipynb rules all the chatGPT zero-shot prompting experiments
 
